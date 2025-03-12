@@ -1,0 +1,14 @@
+Order ID,Region,Product Category,Sales Amount,Cost,Profit,Order Date,Customer Segment
+1001,North,Electronics,1500,1000,500,6/1/2023,Corporate
+1002,South,Furniture,800,600,200,6/3/2023,Small Business
+1003,East,Electronics,1200,900,300,6/5/2023,Corporate
+1004,West,Office Supplies,600,450,150,6/10/2023,Consumer
+1005,North,Furniture,500,300,200,6/12/2023,Consumer
+1006,South,Electronics,2000,1600,400,6/14/2023,Small Business
+1007,East,Office Supplies,700,500,200,6/15/2023,Corporate
+1008,North,Electronics,1700,1300,400,6/18/2023,Corporate
+1009,West,Furniture,1000,800,200,6/20/2023,Consumer
+1010,South,Office Supplies,900,700,200,6/25/2023,Small Business
+1011,North,Office Supplies,1100,850,250,6/28/2023,Corporate
+1012,East,Furniture,1300,900,400,6/30/2023,Corporate
+1013,West,Electronics,2500,1900,600,7/1/2023,Consumer
